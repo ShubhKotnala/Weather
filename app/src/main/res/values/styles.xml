@@ -29,8 +29,8 @@
         <item name="colorPrimaryDark">@color/thunderStormColorPrimary</item>
         <item name="android:windowAnimationStyle">@style/WindowAnimationTransition</item>
         <item name="colorAccent">@color/colorAccent</item>
-        <item name="android:windowBackground">@color/cloudyColorPrimary</item>
-        <item name="android:colorBackground">@color/cloudyColorPrimary</item>
+        <item name="android:windowBackground">@color/thunderStormColorPrimary</item>
+        <item name="android:colorBackground">@color/thunderStormColorPrimary</item>
         <item name="android:textColor">@android:color/white</item>
     </style>
 
@@ -40,8 +40,8 @@
         <item name="colorPrimaryDark">@color/sunnyColorPrimary</item>
         <item name="android:windowAnimationStyle">@style/WindowAnimationTransition</item>
         <item name="colorAccent">@color/colorAccent</item>
-        <item name="android:windowBackground">@color/cloudyColorPrimary</item>
-        <item name="android:colorBackground">@color/cloudyColorPrimary</item>
+        <item name="android:windowBackground">@color/sunnyColorPrimary</item>
+        <item name="android:colorBackground">@color/sunnyColorPrimary</item>
         <item name="android:textColor">@android:color/black</item>
     </style>
 
@@ -51,8 +51,8 @@
         <item name="colorPrimaryDark">@color/Icy</item>
         <item name="android:windowAnimationStyle">@style/WindowAnimationTransition</item>
         <item name="colorAccent">@color/colorAccent</item>
-        <item name="android:windowBackground">@color/cloudyColorPrimary</item>
-        <item name="android:colorBackground">@color/cloudyColorPrimary</item>
+        <item name="android:windowBackground">@color/Icy</item>
+        <item name="android:colorBackground">@color/Icy</item>
         <item name="android:textColor">@android:color/black</item>
     </style>
 
